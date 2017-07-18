@@ -2,6 +2,7 @@ package zadania.library;
 
 public class Book {
 
+
 	String title;
 	String author;
 	int releaseDate;

@@ -2,6 +2,7 @@ package zadania.calc;
 
 public class Calculator {
 
+
 	public static String add(double x, double y) {
 		double wynik = x + y;
 		return "Dodawanie: " + x + " + " + y + " = " + wynik;

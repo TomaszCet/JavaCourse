@@ -11,6 +11,7 @@ public class KlasyIObiekty {
 		System.out.println(prac3.toString());
 	}
 
+
 }
 
 class Employee {
@@ -37,3 +38,5 @@ class Employee {
 	}
 
 }
+
+
