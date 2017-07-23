@@ -2,7 +2,7 @@ package zadania.calc;
 
 public class Calculator {
 
-
+//	Klasa wykorzystywana w dwóch programach
 	public static String add(double x, double y) {
 		double wynik = x + y;
 		return "Dodawanie: " + x + " + " + y + " = " + wynik;
